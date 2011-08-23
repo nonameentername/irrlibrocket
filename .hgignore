@@ -1,3 +1,3 @@
 glob:obj/
-glob:src/libRocketTest.depend
-glob:src/libRocketTest.layout
+glob:source/libRocketTest.depend
+glob:source/libRocketTest.layout
